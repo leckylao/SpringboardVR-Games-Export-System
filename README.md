@@ -5,7 +5,6 @@ This system is for VR Arcades to export their games list from SpringboardVR and 
 Manual can be downloaded [here](https://github.com/leckylao/SpringboardVR-Games-Export-System/raw/master/SpringboardVR-Games-Export-Manual.pdf)
 
 Disclaimer:
-* We are using an unsupported private API and that it could break at any time. 
-* We are recieving full emails and passwords but it's just for achiveve data from SpringboardVR API and doesn't store in our service. 
-
-*Springboard does not endorse, own or control SpringboardVR Games Export System, and has no obligation, responsibility or liability in connection with its use.*
+* We are using an unsupported private API and that it could break at any time.
+* We are receiving full emails and passwords but it's just for fetching data from SpringboardVR API and doesn't store in our service.
+* Springboard does not endorse, own or control SpringboardVR Games Export System, and has no obligation, responsibility or liability in connection with its use.
